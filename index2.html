@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+ <html>
+ <head>
+     <script type="text/javascript"
+                src="http://mbostock.github.com/d3/d3.js">
+     </script>
+     <style type="text/css">
+         p {
+             font-size: 20px;
+             color: orangered;
+         }
+     </style>
+ </head>
+ <body>
+     <div id="example1"></div>
+     <script type="text/javascript">
+         pdata = [10,12,6,8,15];
+ 
+         selectDIV = d3.select("#example1");
+ 
+        selectDIV.selectAll("p")
+             .data(pdata)
+             .enter()
+             .append("p")
+             .text(function(d){return d;});
+     </script>
+ </body>
+ </html>
