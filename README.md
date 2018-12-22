@@ -1,3 +1,5 @@
+Link to the app: (https://yongjinjiang.github.io/JavaScriptUFOsightings/)
+
 # Unit 14 | Assignment - JavaScript and DOM Manipulation
 
 ## Background
