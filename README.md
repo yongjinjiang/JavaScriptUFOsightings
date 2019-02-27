@@ -1,5 +1,11 @@
-Link to the app: (https://yongjinjiang.github.io/JavaScriptUFOsightings/)
+## This is the homework project for unit 14(Intro-To_javascript) of [Data Visualization and Analytics](https://bootcamp.umn.edu/data/landing%20full/).
+   - Built an interactive dashboard to explore the UFO sighting,  with the [dataset](./static/js/data.js) provided by the instructor. More details about the project can be found [here](#unit-14--assignment---javascript-and-dom-manipulation).
 
+   - Link to the app: (https://yongjinjiang.github.io/JavaScriptUFOsightings/)
+
+
+
+## **_The original text of the homework assignment:_** 
 # Unit 14 | Assignment - JavaScript and DOM Manipulation
 
 ## Background
