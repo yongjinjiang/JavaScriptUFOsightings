@@ -30,6 +30,12 @@ console.log(`here is arrayfrom:  ${Array.from(filter_data[3])}`)
 
 console.log(filter_data[1])
 
+// var str="datetime"
+// console.log(data[0].datetime)
+// console.log(data[0]["datetime"])
+// console.log(data[0].str)
+// console.log(data[0][str])
+// throw new Error("somthing went wrong!")
     
 data.forEach(function(data_i) {var row=tbody.append('tr');
                                Object.values(data_i).forEach((info)=>row.append('td').text(info))
