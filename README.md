@@ -1,5 +1,5 @@
 ## About
-   - This is the personal project for unit 14(Intro-To_javascript) of [Data Visualization and Analytics](https://bootcamp.umn.edu/data/landing%20full/).
+   - This is the personal project for unit 14(Intro-To_javascript) of [Data Visualization and Analytics](https://bootcamp.umn.edu/data/landing%20full/) (graded A+).
    - Built an interactive dashboard to explore the UFO sighting,  with the [dataset](./static/js/data.js) provided by the instructor. More details about the project can be found [here](#the-original-text-of-the-homework-assignment).
    - A snapshot of the app: 
   <img src="./static/images/app.png " width="800" height="400">
