@@ -8,7 +8,7 @@
    - The tools used in buliding this app: [D3.js](https://d3js.org/), [Bootstrap](https://getbootstrap.com/), [jQuery.js](https://jquery.com/).
 
 ## Usage of the app
-   - Playing on the [link]((https://yongjinjiang.github.io/JavaScriptUFOsightings/)) to the app: choose and input a data from the list of possible dates on the left side of the page. On clicking the "Button", a table will be created for UFO sightings for that given date.  Furthermore, a line of new filters "date", "city", "state", "country", "shape" will appear at the bottom of the table. When you click a filter, a dropdown manu with possible values can be seen. As you choose a value,  a new table would appear the line of filters.
+   - Playing on the [link]((https://yongjinjiang.github.io/JavaScriptUFOsightings/)) to the app: choose and input a data from the list of possible dates on the left side of the page. On clicking the "Button", a table will be created for UFO sightings for that given date.  Furthermore, a line of new filters "date", "city", "state", "country", "shape" will appear at the bottom of the table. When you click a filter, a dropdown manu with possible values can be seen. As you choose a value,  a new table would appear below the line of filters.
    - To play the app locally, clone the repo and open the index.html. Yes, it's just that simple!!
     
 
